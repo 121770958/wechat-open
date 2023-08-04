@@ -1,0 +1,58 @@
+{
+  "_from": "wechat-open",
+  "_id": "wechat-open@1.8.8",
+  "_inBundle": false,
+  "_integrity": "sha512-0+eGZvP7S4KZcEqWgTmeYfe2udlKKGjm7ZWuEGyuyBaHmmp8+xe9LV8dQpisdc+oc0kjMILiQ4ib1j4q0k7ncQ==",
+  "_location": "/wechat-open",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wechat-open",
+    "name": "wechat-open",
+    "escapedName": "wechat-open",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wechat-open/-/wechat-open-1.8.8.tgz",
+  "_shasum": "300fe3dbe588c384ea0e0f56a8dbdbf640d69e3f",
+  "_spec": "wechat-open",
+  "_where": "/Users/liusai/workspace/wechat-open",
+  "author": {
+    "name": "liusai"
+  },
+  "bugs": {
+    "url": "https://github.com/121770958/wechat-open-node-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.87.0"
+  },
+  "deprecated": false,
+  "description": "微信开放平台SDK 微信登录",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/121770958/wechat-open-node-sdk#readme",
+  "keywords": [
+    "wechat",
+    "wechat-open-api"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wechat-open",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/121770958/wechat-open-node-sdk.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.8.8"
+}
